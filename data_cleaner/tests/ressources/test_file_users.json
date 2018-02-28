@@ -1,0 +1,23 @@
+{"user_id": "u1", "ts": 1516095541, "app_key": "1", "event": "identify", "first_name": "Peter"}
+{"user_id": "u1", "ts": 1516095542, "app_key": "1", "event": "event1_peter"}
+{"user_id": "u1", "ts": 1516095547, "app_key": "1", "event": "event2_anna"}
+{"user_id": "u1", "ts": 1516095548, "app_key": "1", "event": "event3_anna"}
+{"user_id": "u1", "ts": 1516095549, "app_key": "1", "event": "identify", "first_name": "Bob"}
+{"user_id": "u1", "ts": 1516095551, "app_key": "1", "event": "event2_bob"}
+{"user_id": "u2", "ts": 1516095555, "app_key": "1", "event": "event1_peter"}
+{"user_id": "u2", "ts": 1516095556, "app_key": "1", "event": "event2_peter"}
+{"user_id": "u2", "ts": 1516095557, "app_key": "1", "event": "event3_peter"}
+{"user_id": "u2", "ts": 1516095558, "app_key": "1", "event": "identify", "first_name": "Anna"}
+{"user_id": "u2", "ts": 1516095559, "app_key": "1", "event": "event1_anna"}
+{"user_id": "u1", "ts": 1516095546, "app_key": "1", "event": "event1_anna"}
+{"user_id": "u1", "ts": 1516095538, "app_key": "1", "event": "event1"}
+{"user_id": "u2", "ts": 1516095560, "app_key": "1", "event": "event2_anna"}
+{"user_id": "u2", "ts": 1516095561, "app_key": "1", "event": "event3_anna"}
+{"user_id": "u1", "ts": 1516095553, "app_key": "1", "event": "event3_bob"}
+{"user_id": "u2", "ts": 1516095554, "app_key": "1", "event": "identify", "first_name": "Peter"}
+{"user_id": "u1", "ts": 1516095543, "app_key": "1", "event": "event1_peter"}
+{"user_id": "u1", "ts": 1516095544, "app_key": "1", "event": "event1_peter"}
+{"user_id": "u1", "ts": 1516095545, "app_key": "1", "event": "identify", "first_name": "Anna"}
+{"user_id": "u1", "ts": 1516095539, "app_key": "1", "event": "event2"}
+{"user_id": "u1", "ts": 1516095540, "app_key": "1", "event": "event3"}
+{"user_id": "u1", "ts": 1516095550, "app_key": "1", "event": "event1_bob"}
